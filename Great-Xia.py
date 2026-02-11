@@ -9,6 +9,7 @@ def replace_unwanted_content(file_path):
         'Great Xia',
         'Huaxia',
         'Dragon Country',
+        'China'
     ]
 
     # Read the file content

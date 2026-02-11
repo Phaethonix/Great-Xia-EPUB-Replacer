@@ -119,8 +119,8 @@ def process_directory(directory):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python eclean.py <directory>")
-        print("Example: python eclean.py /path/to/your/ebook/folder")
+        print("Usage: python Great-Xia.py <directory>")
+        print("Example: python Great-Xia.py /path/to/your/novel/folder")
         sys.exit(1)
 
     directory = sys.argv[1]

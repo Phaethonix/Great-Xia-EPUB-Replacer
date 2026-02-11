@@ -50,6 +50,7 @@ Check `script.log` if you're curious how many times "Great Xia" was haunting you
 
 - Python 3
 - `zip` (Linux) or PowerShell (Windows)
+- Only tested with .epub from WebToEpub extension
 
 ## Note on EPUBs
 

@@ -6,7 +6,7 @@ But if you've been driven to the brink of madness by the phrase **"Great Xia"** 
 
 ## What it does
 
-Finds `Great Xia` in the text files of an unpacked EPUB and replaces it with something that doesn't make you want to **** the author ********** forever. Technically speaking you could use it to replace any word or phrase, and technically speaking you could run it in a batch across multiple files, but that's not really the point here. The point is **Great Xia** MUST GO!!
+Finds `Great Xia` in the text files of an unpacked EPUB and replaces it with something that doesn't make you want to **** the author ********** forever. Technically speaking you could use it to replace any word or phrase, and technically speaking you could run it in a batch across multiple files, but that's not really the point here. The point is **Great Xia** MUST GO!! (also Huaxia, Dragon Country ect.)
 
 ## Files
 

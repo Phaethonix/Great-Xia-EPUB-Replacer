@@ -6,7 +6,9 @@ import sys
 
 def replace_unwanted_content(file_path):
     unwanted_contents = [
-        'Great Xia'
+        'Great Xia',
+        'Huaxia',
+        'Dragon Country',
     ]
 
     # Read the file content
@@ -35,12 +37,12 @@ def replace_unwanted_content(file_path):
             # Let's try to find similar text
             if 'Great Xia' in content:
                 print("  But 'Great Xia' was found - might be formatting differences")
-            if 'Great Cuck' in content:
-                print("  But 'Great Cuck' was found - might be formatting differences")
+            if 'Cucktopia' in content:
+                print("  But 'Cucktopia' was found - might be formatting differences")
 
         # Simple direct replacement (most reliable)
         if unwanted in content:
-            new_content = content.replace(unwanted, 'Great Cuck')
+            new_content = content.replace(unwanted, 'Cucktopia')
             replacements = content.count(unwanted)
             content = new_content
             replaced_count += replacements
@@ -63,7 +65,7 @@ def replace_unwanted_content(file_path):
             for i, pattern in enumerate(patterns):
                 matches = pattern.findall(content)
                 if matches:
-                    content = pattern.sub('Great Cuck', content)
+                    content = pattern.sub('Cucktopia', content)
                     replaced_count += len(matches)
                     print(f"  → Found and replaced using pattern {i+1}: {len(matches)} occurrences")
                     break

@@ -12,8 +12,10 @@ def replace_unwanted_content(file_path):
         'Xia Country',
         'Huaguo',
         'Xia Kingdom',
+        'Xia Gou',
         #up to you
         #'China',
+        #'Geart Yan',
         
     ]
 

@@ -8,6 +8,7 @@ def replace_unwanted_content(file_path):
     unwanted_contents = [
         'Great Xia',
         'Huaxia',
+        'Hua Nation',
         'Dragon Country',
         'Xia Country',
         'Huaguo',

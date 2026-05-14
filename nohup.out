@@ -1,0 +1,26 @@
+/usr/share/scrcpy/scrcpy-server: 1 file pushed, 0 skipped. 99.2 MB/s (90980 bytes in 0.001s)
+[server] INFO: Device: [samsung] samsung SM-A346E (Android 14)
+WARN: Device disconnected
+scrcpy 3.3.4 <https://github.com/Genymobile/scrcpy>
+INFO: ADB device found:
+INFO:     --> (tcpip)  192.168.1.69:5555               device  SM_A346E
+INFO: Renderer: opengl
+INFO: OpenGL version: 4.6 (Compatibility Profile) Mesa 26.0.2-arch2.3
+INFO: Trilinear filtering enabled
+INFO: Texture: 1080x2336
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
+INFO: Device clipboard copied
